@@ -1,5 +1,5 @@
 # Modeller
-## Comparative Homology Modelling of SARSCov2 NSP4 region using `Modeller`
+## Comparative Homology Modelling of SARSCov2 NSP4 region
 
 **Steps implemented in `NSP4.structure.ipynb`**:
 1. Performing PSI-BLAST to find homologous sequence
