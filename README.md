@@ -8,3 +8,5 @@ Steps implemented:
 4. Evaluating model (and template) by generating dope profile
 5. Visualizing modelled structure
 6. Visualizing DOPE profiles of model and template
+
+View `NSP4.structure.ipynb`. 
