@@ -8,3 +8,5 @@
 4. Evaluating model (and template) by generating DOPE profile
 5. Visualizing modelled structure
 6. Visualizing DOPE profiles of model and template
+
+Submitted as an assignment for M. S. Madhusudhan's Bioinformatics course at IISER Pune.
