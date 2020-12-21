@@ -2,7 +2,7 @@
 ## Comparative Homology Modelling of SARSCov2 NSP4 region
 
 **Steps implemented in `NSP4.structure.ipynb`**:
-1. Performing PSI-BLAST to find homologous sequence
+1. PSI-BLAST to find homologous sequence
 2. Refining the target-template alignment
 3. Constructing the model by satisfying spatial restraints
 4. Evaluating model (and template) by generating DOPE profile
