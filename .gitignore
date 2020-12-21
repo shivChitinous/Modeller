@@ -18,4 +18,9 @@
 *.pdb
 *.pap
 *.ali
+NSP4.*
 !NSP4.ali
+!NSP4.profile
+!NSP4-1t70A.ali
+!NSP4-1t70A.pap
+!NSP4.B99990003.pdb
