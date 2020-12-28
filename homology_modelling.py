@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
     
 def precise_align(env,tmp,targ,tmp_pdb,model_segment=None):
     """use `align2d` function to align target and template using dynamic programming"""
-    tmp_pdb = os.path.relpath(tmp_pdb) #get relative path to avoid colon errors
+    tmp_pdb = os.path.relpath(tmp_pdb) #convert to relative path
     aln = alignment(env)
     mdl = model(env, file=tmp, model_segment=model_segment)
     tmp = tmp+''.join(set((model_segment[0][-1]+model_segment[1][-1])))
